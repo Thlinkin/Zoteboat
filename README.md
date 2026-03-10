@@ -13,16 +13,16 @@ Good luck!
 This is a console text-based game. The user will enter commands from the following list and the game will tell you your story.
 
 Current commmands:
-Sail
-Eat [food] - WIP
-Fish (When bubbles)
-Talk (npc) - WIP
-Trade (npc) - WIP
-Fight (enemy) - WIP
-Inventory
-Look
-Drop - WIP
-Turns
-Help [command]
-Restart
+Sail,
+Eat [food] - WIP,
+Fish (When bubbles),
+Talk (npc) - WIP,
+Trade (npc) - WIP,
+Fight (enemy) - WIP,
+Inventory,
+Look,
+Drop - WIP,
+Turns,
+Help [command],
+Restart,
 Exit (quit)
